@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Adds 9 new ranks to the game, replacing a generic Champion rank
+// @downloadURL  https://github.com/TomBer0x/Better-Geo-Ranks/blob/main/better-geo-ranks.user.js
+// @updateURL    https://github.com/TomBer0x/Better-Geo-Ranks/blob/main/better-geo-ranks.user.js
 // @author       TomBer
 // @match        https://www.geoguessr.com/*
 // @grant        GM_addStyle

@@ -14,7 +14,7 @@ ___
 ### 🎮 How To Use
 1. Install the Tampermonkey Chrome extension using [this link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 2. Make sure to enable [developer mode](https://www.tampermonkey.net/faq.php?locale=en#Q209) in your browser and allow Tampermonkey to use user scripts
-3. Click on [this link](https://github.com/TomBer0x/Better-Geo-Ranks/blob/main/better-geo-ranks.user.js) and follow the instructions on the screen to install the script
+3. Click on [this link](https://github.com/TomBer0x/Better-Geo-Ranks/raw/main/better-geo-ranks.user.js) and follow the instructions on the screen to install the script
 4. Open a new browser window and check if the script works properly (remember that you need to be in the Champion division for it to make any changes)
 
 <br>
